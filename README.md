@@ -1,4 +1,4 @@
-![Django Logo](polls/static/img/Django-LOGO.png)
+![Django Logo](django_polls/static/img/Django-LOGO.png)
 
 # Advanced tutorial: How to write reusable apps
 
